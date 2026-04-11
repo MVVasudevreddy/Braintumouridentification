@@ -1,0 +1,31 @@
+# requirements.txt
+# Project: Automated Brain Tumor Identification for MRI Images using YOLOv7
+# Mini Project U20CSPR01 | Batch A-10 | Dept. of CSE, BIHER
+
+# Core Deep Learning Framework
+torch==1.13.0
+torchvision==0.14.0
+torchaudio==0.13.0
+# Install with CUDA 11.6 support:
+# pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu116
+
+# YOLOv7 Dependencies
+numpy>=1.18.5
+opencv-python>=4.1.1
+Pillow>=7.1.2
+Matplotlib>=3.2.2
+scipy>=1.4.1
+tqdm>=4.41.0
+pyyaml>=5.3.1
+requests>=2.23.0
+tensorboard>=2.4.1
+seaborn>=0.11.0
+pandas>=1.1.4
+protobuf<4.21.3
+
+# Utilities
+IPython
+glob2
+
+# Google Colab / Drive
+# google-colab  (pre-installed in Colab)
