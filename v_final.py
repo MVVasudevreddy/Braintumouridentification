@@ -4,7 +4,7 @@
 #            using YOLOv7 Model
 # COURSE   : U20CSPR01 - Mini Project | Batch A-10
 # DEPT     : Computer Science and Engineering, BIHER
-# AUTHOR   : Vasudev  (U22CN027 - MULLAMREDDY VENKATA VASUDEVA REDDY)
+# AUTHOR   : Vasudevareddy  (U22CN027 - MULLAMREDDY VENKATA VASUDEVA REDDY)
 # GUIDE    : Dr. G. Rosline Nesa Kumari, Professor, Dept. of CSE, BIHER
 # GITHUB   : https://github.com/MVVasudevreddy
 # ============================================================
