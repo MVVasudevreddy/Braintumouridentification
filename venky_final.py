@@ -4,7 +4,7 @@
 #            using YOLOv7 Model
 # COURSE   : U20CSPR01 - Mini Project | Batch A-10
 # DEPT     : Computer Science and Engineering, BIHER
-# AUTHOR   : Venky  (U22CN027 - MULLAMREDDY VENKATA VASUDEVA REDDY)
+# AUTHOR   : Vasu  (U22CN027 - MULLAMREDDY VENKATA VASUDEVA REDDY)
 # GUIDE    : Dr. G. Rosline Nesa Kumari, Professor, Dept. of CSE, BIHER
 # GITHUB   : https://github.com/MVVasudevreddy
 # ============================================================
@@ -265,7 +265,7 @@ print("""
   Neck            :  FPN + PAN
   Head            :  YOLOv7 Detection Head
 ============================================================
-  Developer       :  Venky  (U22CN027)
+  Developer       :  Vasu  (U22CN027)
   Institution     :  BIHER, Chennai
   Department      :  Computer Science and Engineering
   Guide           :  Dr. G. Rosline Nesa Kumari
@@ -294,4 +294,4 @@ print("ONNX export complete. Check runs/train/exp/weights/")
 # ============================================================
 # END OF PROJECT
 # ============================================================
-print("\nProject complete! Brain Tumor Identification using YOLOv7 - by Venky")
+print("\nProject complete! Brain Tumor Identification using YOLOv7 - by Vasu")
