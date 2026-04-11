@@ -96,7 +96,7 @@ Output: Tumor / Non-Tumor (with bounding box)
 
 ```
 Braintumouridentification/
-├── venky_final.py       # Complete end-to-end pipeline (20 steps)
+├── Vasu_final.py       # Complete end-to-end pipeline (20 steps)
 ├── data.yaml            # YOLOv7 dataset configuration
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
@@ -212,7 +212,7 @@ python detect.py \
 
 | | Details |
 |---|---|
-| **Name** | Venky |
+| **Name** | Vasu |
 | **Reg. No** | U22CN027 |
 | **GitHub** | [@MVVasudevreddy](https://github.com/MVVasudevreddy) |
 | **Institution** | BIHER, Chennai |
