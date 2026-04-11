@@ -1,0 +1,19 @@
+# data.yaml - YOLOv7 Dataset Configuration
+# Project: Automated Brain Tumor Identification for MRI Images
+# Mini Project U20CSPR01 | Batch A-10 | Dept. of CSE, BIHER
+
+# Dataset paths (Google Colab / Google Drive)
+train: /content/drive/MyDrive/MB/train/images
+val:   /content/drive/MyDrive/MB/valid/images
+test:  /content/drive/MyDrive/MB/test/images
+
+# Number of classes
+nc: 2
+
+# Class names
+names:
+  - 'Non-Tumor'
+  - 'Tumor'
+
+# Dataset source
+# Kaggle: https://www.kaggle.com/datasets/ammarahmed310/labeled-mri-brain-tumor-dataset
