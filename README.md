@@ -20,7 +20,7 @@
 
 | Reg. No | Name | GitHub |
 |---|---|---|
-| U22CN027 | Vasudev | [@MVVasudevreddy](https://github.com/MVVasudevreddy) |
+| U22CN027 | Venky | [@MVVasudevreddy](https://github.com/MVVasudevreddy) |
 
 ---
 
@@ -218,3 +218,4 @@ The proposed system successfully detects and localizes brain tumors from MRI ima
 ---
 
 *Department of Computer Science and Engineering | BIHER*
+*Developer: Venky (U22CN027)*
