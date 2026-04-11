@@ -20,7 +20,7 @@
 
 | Reg. No | Name | GitHub |
 |---|---|---|
-| U22CN027 | Venky | [@MVVasudevreddy](https://github.com/MVVasudevreddy) |
+| U22CN027 | Vasudevareddy | [@MVVasudevreddy](https://github.com/MVVasudevreddy) |
 
 ---
 
