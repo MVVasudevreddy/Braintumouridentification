@@ -1,0 +1,51 @@
+# .gitignore - Brain Tumor Identification Project
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# YOLOv7 training outputs
+runs/
+*.cache
+train.cache
+valid.cache
+test.cache
+
+# Model weights (large files)
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Dataset images (download from Kaggle separately)
+datasets/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Google Colab / Drive artifacts
+.config/
+content/
