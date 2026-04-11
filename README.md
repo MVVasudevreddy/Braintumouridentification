@@ -16,14 +16,11 @@
 
 ---
 
-## Team Members
+## Developer
 
-| S.No | Reg. No | Name |
+| Reg. No | Name | GitHub |
 |---|---|---|
-| 1 | U22CN018 | MORRI VENKATESH |
-| 2 | U22CN020 | MUDDAM VIVEK SAI RAM |
-| 3 | U22CN021 | MUDDAMSETTY VISHNU CHARAN |
-| 4 | U22CN027 | MULLAMREDDY VENKATA VASUDEVA REDDY |
+| U22CN027 | Vasudev | [@MVVasudevreddy](https://github.com/MVVasudevreddy) |
 
 ---
 
